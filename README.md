@@ -66,7 +66,7 @@ display.display(display.Markdown(F"""![{alt}]({image})"""))
 plt.close(fig)
 ```
 
-![image]()
+![image](download.png)
 
 É possível importar para os notebooks do Colab os dados da sua conta do Google Drive, como planilhas. Também é possível importar do GitHub e de muitas outras fontes. Para saber mais sobre como importar dados e como o Colab pode ser usado para a ciência de dados, consulte o link abaixo em <a href="#working-with-data">Como trabalhar com dados</a>.
 
